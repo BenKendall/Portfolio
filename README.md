@@ -32,7 +32,7 @@ Developed a web tool for locating nearby medical services using Google Maps API 
 ---
 
 ## **How to Reach Me** 📫  
-- LinkedIn: [Ben's LinkedIn]([url](https://www.linkedin.com/in/ben-kendall-904641225/))
+- LinkedIn:([Ben's LinkedIn](https://www.linkedin.com/in/ben-kendall-904641225/))
 - Email: ben@kendallonline.co.uk 
 
 ---
